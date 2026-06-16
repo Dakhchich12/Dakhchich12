@@ -1,16 +1,58 @@
-## Hi there 👋
+# 👋 Hi, I'm Dakhchich
 
-<!--
-**Dakhchich12/Dakhchich12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 FiveM Developer | Server Developer | Lua Scripter
 
-Here are some ideas to get you started:
+I specialize in building, optimizing, and maintaining FiveM servers from scratch.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ What I Do
+
+* Build FiveM servers from zero
+* Fix server issues and bugs
+* Repair and optimize databases
+* Develop custom scripts
+* Modify existing resources
+* Improve server performance
+* Debug Lua scripts
+* Configure frameworks and resources
+
+## ⚡ Why Work With Me
+
+* Lightweight and optimized scripts
+* Clean and maintainable code
+* Fast bug fixing
+* Performance-focused development
+* Reliable support
+
+## 📂 Featured Projects
+
+### 🚗 Dach Indicators
+
+Realistic vehicle turn signal system for FiveM.
+
+### 🩸 BF Blood Effect
+
+Enhanced blood effect system.
+
+### 🗺️ Map PVP FiveM
+
+Custom PVP map created and optimized for FiveM servers.
+
+## 💼 Services
+
+✅ FiveM Server Setup
+
+✅ Custom Script Development
+
+✅ Bug Fixing & Troubleshooting
+
+✅ Database Repair & Optimization
+
+✅ Resource Optimization
+
+✅ Server Performance Improvements
+
+## 📫 Contact
+
+Discord: dakhchich
+
+💬 Available for freelance projects and long-term server development.
