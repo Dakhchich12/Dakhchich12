@@ -51,8 +51,13 @@ Custom PVP map created and optimized for FiveM servers.
 
 ✅ Server Performance Improvements
 
-## 📫 Contact
+### 📫 Contact
 
-Discord: dakhchich
+Discord: @daa__xx
 
-💬 Available for freelance projects and long-term server development.
+### 🌐 Community
+
+Discord Server:
+https://discord.gg/q6BFDcM32R
+
+💬 Available for freelance projects, custom scripts, server setup, optimization, and database repair.
