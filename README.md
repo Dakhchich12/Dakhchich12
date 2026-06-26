@@ -25,7 +25,6 @@
 
 ---
 
-<div align="center">
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Dakhchich12&label=PROFILE+VIEWS&color=7F5AF0&style=for-the-badge)
 
