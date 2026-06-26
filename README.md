@@ -16,11 +16,17 @@
 ![Scripts](https://img.shields.io/badge/SCRIPTS-OPTIMIZED-00ffcc?style=for-the-badge&logo=lua&logoColor=black)
 
 </div>
+<div align="center">
+
+
+💬 Available for freelance projects — custom scripts, server setup, optimization, and database repair.
+</div>
 
 
 
 ---
-##
+### `>
+<div align="center">
 ![Visitors](https://komarev.com/ghpvc/?username=Dakhchich&label=Profile+Views&color=00ffcc&style=flat)
 
 </div>
@@ -104,15 +110,12 @@ local Developer = {
 [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/q6BFDcM32R)
 [![Discord Handle](https://img.shields.io/badge/@daa__xx-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/q6BFDcM32R)
 
-💬 Available for freelance projects — custom scripts, server setup, optimization, and database repair.
+
 
 
 </div>
 
 ---
 
-<div align="center">
 
-`> Engineered for performance. Built from zero.`
 
-</div>
