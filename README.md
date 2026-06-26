@@ -1,6 +1,7 @@
+````md
 <div align="center">
 
-```
+```text
 ██████╗  █████╗ ██╗  ██╗██╗  ██╗ ██████╗██╗  ██╗██╗ ██████╗██╗  ██╗
 ██╔══██╗██╔══██╗██║ ██╔╝██║  ██║██╔════╝██║  ██║██║██╔════╝██║  ██║
 ██║  ██║███████║█████╔╝ ███████║██║     ███████║██║██║     ███████║
@@ -9,114 +10,203 @@
 ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝ ╚═════╝╚═╝  ╚═╝╚═╝ ╚═════╝╚═╝  ╚═╝
 ```
 
-### `> FiveM Developer · Server Developer · Lua Scripter`
+# Dakhchich
 
-![Status](https://img.shields.io/badge/STATUS-ONLINE-00ffcc?style=for-the-badge&logo=statuspage&logoColor=black)
-![Focus](https://img.shields.io/badge/FOCUS-FiveM%20Development-00ffcc?style=for-the-badge&logo=rockstargames&logoColor=black)
-![Scripts](https://img.shields.io/badge/SCRIPTS-OPTIMIZED-00ffcc?style=for-the-badge&logo=lua&logoColor=black)
+### `FiveM Developer • Server Developer • Lua Scripter`
+
+![Status](https://img.shields.io/badge/STATUS-ONLINE-00E5A8?style=for-the-badge&logo=statuspage&logoColor=black)
+![Focus](https://img.shields.io/badge/FOCUS-FiveM%20Development-5865F2?style=for-the-badge&logo=rockstargames&logoColor=white)
+![Scripts](https://img.shields.io/badge/SCRIPTS-OPTIMIZED-FFB800?style=for-the-badge&logo=lua&logoColor=black)
+
+💬 **Available for freelance projects** — Custom Scripts • Server Setup • Optimization • Database Repair
 
 </div>
-<div align="center">
-
-
-💬 Available for freelance projects — custom scripts, server setup, optimization, and database repair.
-</div>
-
-
 
 ---
-### 
 
+<div align="center">
 
-![Visitors](https://komarev.com/ghpvc/?username=Dakhchich&label=Profile+Views&color=00ffcc&style=flat)
+![Visitors](https://komarev.com/ghpvc/?username=Dakhchich&label=PROFILE+VIEWS&color=7F5AF0&style=for-the-badge)
 
+</div>
 
+---
 
-## 👨‍💻 About Me
+# 👨‍💻 About Me
 
 ```lua
 local Developer = {
-    name     = "Dakhchich",
-    focus    = "FiveM Server Development & Lua Scripting",
-    skills   = {
-        "Build FiveM servers from zero",
-        "Custom script development",
-        "Bug fixing & troubleshooting",
-        "Database repair & optimization",
-        "Resource & performance optimization",
+
+    name = "Dakhchich",
+
+    role = "FiveM Developer",
+
+    focus = {
+        "FiveM Development",
+        "Lua Scripting",
+        "QBCore",
+        "ESX",
+        "Ox Ecosystem",
+    },
+
+    skills = {
+        "Build complete FiveM servers",
+        "Custom resource development",
+        "Bug fixing",
+        "Performance optimization",
+        "Database repair",
+        "Server maintenance",
         "Framework configuration",
+        "UI Development",
     },
-    contact  = {
+
+    languages = {
+        "Lua",
+        "JavaScript",
+        "Python",
+        "HTML",
+        "CSS",
+        "SQL"
+    },
+
+    contact = {
         discord = "@daa__xx",
-        server  = "https://discord.gg/q6BFDcM32R",
+        community = "discord.gg/q6BFDcM32R"
     },
-    motto    = "Lightweight code. Maximum performance.",
+
+    motto = "Lightweight code. Maximum performance."
 }
 ```
 
 ---
 
-## 🛠️ Tech Stack
-![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
-![Lua](https://img.shields.io/badge/Lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![FiveM](https://img.shields.io/badge/FiveM-%23F40552.svg?style=for-the-badge&logo=rockstargames&logoColor=white)
-![QBCore](https://img.shields.io/badge/QBCore-%23000000.svg?style=for-the-badge&logoColor=white)
-![ESX](https://img.shields.io/badge/ESX-%230078D4.svg?style=for-the-badge&logoColor=white)
-![Ox%20Lib](https://img.shields.io/badge/Ox%20Lib-%23FF6B00.svg?style=for-the-badge&logoColor=white)
-![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![VS%20Code](https://img.shields.io/badge/VS%20Code-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
----
-
-
-## 💼 Services
-
-```
-✅  FiveM Server Setup          ✅  Custom Script Development
-✅  Bug Fixing & Troubleshooting ✅  Database Repair & Optimization
-✅  Resource Optimization        ✅  Server Performance Improvements
-```
-
----
-
-## ⚡ Why Work With Me
-
-- **Lightweight & optimized** — scripts built for performance, not bloat
-- **Clean, maintainable code** — readable and easy to extend
-- **Fast turnaround** — quick bug fixes and reliable delivery
-- **Performance-focused** — every resource tuned for low resmon usage
-- **Reliable support** — I stay until the problem is solved
-
----
-
-## 📊 GitHub Stats
+# 🚀 Tech Stack
 
 <div align="center">
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=Dakhchich&theme=dark&hide_border=true)
+![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
+![FiveM](https://img.shields.io/badge/FiveM-F40552?style=for-the-badge&logo=rockstargames&logoColor=white)
+![QBCore](https://img.shields.io/badge/QBCore-000000?style=for-the-badge)
+![ESX](https://img.shields.io/badge/ESX-0078D4?style=for-the-badge)
+![OX_LIB](https://img.shields.io/badge/Ox_Lib-FF6B00?style=for-the-badge)
+![OX_TARGET](https://img.shields.io/badge/Ox_Target-FF6B00?style=for-the-badge)
+
+![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
+![VSCode](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
 </div>
 
 ---
 
-## 🌐 Contact & Community
+# 💼 Services
+
+```text
+✔ FiveM Server Setup
+
+✔ Custom Lua Scripts
+
+✔ UI Development
+
+✔ Bug Fixing
+
+✔ Database Repair
+
+✔ Performance Optimization
+
+✔ Framework Installation
+
+✔ Resource Optimization
+
+✔ Vehicle Systems
+
+✔ Gang Systems
+
+✔ Job Systems
+
+✔ Housing Systems
+
+✔ Inventory Integration
+
+✔ Discord Integration
+
+✔ Tebex Integration
+```
+
+---
+
+# ⚡ Why Work With Me
+
+- 🚀 Lightweight & optimized resources
+- ⚡ Low Resmon usage
+- 🧹 Clean and maintainable code
+- 🔒 Secure server-side logic
+- 📦 Organized project structure
+- 🎨 Modern UI/UX
+- 🛠️ Fast bug fixing
+- 🤝 Reliable support
+- 📈 Scalable architecture
+
+---
+
+# 📊 GitHub Statistics
 
 <div align="center">
 
-[![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/q6BFDcM32R)
-[![Discord Handle](https://img.shields.io/badge/@daa__xx-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/q6BFDcM32R)
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Dakhchich&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
 
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dakhchich&layout=compact&theme=tokyonight&hide_border=true"/>
 
-
+<img width="100%" src="https://streak-stats.demolab.com?user=Dakhchich&theme=tokyonight&hide_border=true"/>
 
 </div>
 
 ---
 
+# 📈 Contribution Graph
 
+<div align="center">
 
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Dakhchich&theme=tokyo-night&hide_border=true"/>
+
+</div>
+
+---
+
+# 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Dakhchich&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6"/>
+
+</div>
+
+---
+
+# 🌐 Contact
+
+<div align="center">
+
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/q6BFDcM32R)
+
+[![Discord Username](https://img.shields.io/badge/@daa__xx-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/q6BFDcM32R)
+
+</div>
+
+---
+
+<div align="center">
+
+### ⭐ Thanks for visiting my profile!
+
+*"Building lightweight, optimized and professional FiveM experiences."*
+
+Created with ❤️ by **Dakhchich**
+
+</div>
+````
