@@ -32,49 +32,12 @@
 ---
 
 # 👨‍💻 About Me
+---
+I'm **Dakhchich**, a passionate **FiveM Developer** specializing in building high-quality, optimized and scalable server resources.
 
-```lua
-local Developer = {
+I mainly work with **QBCore**, **Qbox**, **ESX**, and the **Ox Ecosystem**, developing custom scripts, modern NUI interfaces and server systems designed for performance and maintainability.
 
-    name = "Dakhchich",
-
-    role = "FiveM Developer",
-
-    specialization = {
-        "FiveM Development",
-        "Lua Scripting",
-        "QBCore",
-        "ESX",
-        "Ox Ecosystem"
-    },
-
-    services = {
-        "Build FiveM Servers",
-        "Custom Scripts",
-        "Bug Fixing",
-        "Performance Optimization",
-        "Database Repair",
-        "UI Development",
-        "Framework Configuration"
-    },
-
-    languages = {
-        "Lua",
-        "JavaScript",
-        "Python",
-        "HTML",
-        "CSS",
-        "SQL"
-    },
-
-    contact = {
-        discord = "@daa__xx",
-        server = "discord.gg/q6BFDcM32R"
-    },
-
-    motto = "Lightweight code. Maximum performance."
-}
-```
+My goal is to create lightweight resources with clean architecture, low resmon usage and an excellent player experience.
 
 ---
 
