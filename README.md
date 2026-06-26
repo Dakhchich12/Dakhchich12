@@ -17,7 +17,13 @@
 
 </div>
 
+
+
 ---
+##
+![Visitors](https://komarev.com/ghpvc/?username=Dakhchich&label=Profile+Views&color=00ffcc&style=flat)
+
+</div>
 
 ## 👨‍💻 About Me
 
@@ -59,15 +65,6 @@ local Developer = {
 
 ---
 
-## 📂 Featured Projects
-
-| Project | Description | Type |
-|---|---|---|
-| 🚗 **Dach Indicators** | Realistic vehicle turn signal system for FiveM | Lua Script |
-| 🩸 **BF Blood Effect** | Enhanced blood effect system for FiveM | Lua Script |
-| 🗺️ **Map PVP FiveM** | Custom PVP map created and optimized for FiveM servers | Map / Resource |
-
----
 
 ## 💼 Services
 
@@ -109,7 +106,6 @@ local Developer = {
 
 💬 Available for freelance projects — custom scripts, server setup, optimization, and database repair.
 
-![Visitors](https://komarev.com/ghpvc/?username=Dakhchich&label=Profile+Views&color=00ffcc&style=flat)
 
 </div>
 
