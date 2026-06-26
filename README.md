@@ -160,12 +160,11 @@ local Developer = {
 </div>
 
 ---
-
-# 🏆 GitHub Trophies
+## 🐍 Contribution Snake
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Dakhchich12&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6"/>
+<img src="https://raw.githubusercontent.com/Dakhchich12/Dakhchich12/output/github-contribution-grid-snake-dark.svg"/>
 
 </div>
 
