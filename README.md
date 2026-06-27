@@ -1,16 +1,23 @@
+
+
 <div align="center">
+
+```text
 ██████╗  █████╗ ██╗  ██╗██╗  ██╗ ██████╗██╗  ██╗██╗ ██████╗██╗  ██╗
 ██╔══██╗██╔══██╗██║ ██╔╝██║  ██║██╔════╝██║  ██║██║██╔════╝██║  ██║
 ██║  ██║███████║█████╔╝ ███████║██║     ███████║██║██║     ███████║
 ██║  ██║██╔══██║██╔═██╗ ██╔══██║██║     ██╔══██║██║██║     ██╔══██║
 ██████╔╝██║  ██║██║  ██╗██║  ██║╚██████╗██║  ██║██║╚██████╗██║  ██║
 ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝ ╚═════╝╚═╝  ╚═╝╚═╝ ╚═════╝╚═╝  ╚═╝
+```
+
+# Dakhchich
 
 ### FiveM Developer • Server Developer • Lua Scripter
 
-![Status](https://img.shields.io/badge/STATUS-ONLINE-00E5A8?style=for-the-badge\&logo=statuspage\&logoColor=black)
-![Focus](https://img.shields.io/badge/FOCUS-FiveM_Development-5865F2?style=for-the-badge\&logo=rockstargames\&logoColor=white)
-![Scripts](https://img.shields.io/badge/SCRIPTS-OPTIMIZED-FFB800?style=for-the-badge\&logo=lua\&logoColor=black)
+![Status](https://img.shields.io/badge/STATUS-ONLINE-00E5A8?style=for-the-badge&logo=statuspage&logoColor=black)
+![Focus](https://img.shields.io/badge/FOCUS-FiveM%20Development-5865F2?style=for-the-badge)
+![Scripts](https://img.shields.io/badge/SCRIPTS-OPTIMIZED-FFB800?style=for-the-badge&logo=lua&logoColor=black)
 
 **Available for freelance projects — Custom Scripts • Server Setup • Optimization • Database Repair**
 
