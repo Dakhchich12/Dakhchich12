@@ -48,15 +48,14 @@ My goal is to create lightweight resources with clean architecture, low resmon u
 ![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge\&logo=lua\&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html\&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css\&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
 
 ![FiveM](https://img.shields.io/badge/FiveM-F40552?style=for-the-badge\&logo=rockstargames\&logoColor=white)
 ![QBCore](https://img.shields.io/badge/QBCore-000000?style=for-the-badge)
 ![ESX](https://img.shields.io/badge/ESX-0078D4?style=for-the-badge)
 ![OX\_LIB](https://img.shields.io/badge/Ox_Lib-FF6B00?style=for-the-badge)
-![OX\_TARGET](https://img.shields.io/badge/Ox_Target-FF6B00?style=for-the-badge)
 
 ![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge\&logo=git\&logoColor=white)
 ![VS\_Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge\&logo=visualstudiocode\&logoColor=white)
@@ -138,8 +137,6 @@ My goal is to create lightweight resources with clean architecture, low resmon u
 <div align="center">
 
 [![Discord](https://img.shields.io/badge/Discord_Server-5865F2?style=for-the-badge\&logo=discord\&logoColor=white)](https://discord.gg/q6BFDcM32R)
-
-[![Discord](https://img.shields.io/badge/@daa__xx-5865F2?style=for-the-badge\&logo=discord\&logoColor=white)](https://discord.gg/q6BFDcM32R)
 
 </div>
 
